@@ -1,6 +1,30 @@
 {
-  "name": "byte",
+  "name": "@jimizai/bytes",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "description": "bytes is a crate for tranform js string to bytes",
+  "bugs": {
+    "url": "https://github.com/jimizai/bytes/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jimizai/bytes.git"
+  },
+  "author": "jimizai",
+  "contributors": [
+    {
+      "name": "jimizai",
+      "email": "359743984@qq.com"
+    }
+  ],
+  "keywords": [
+    "bytes",
+    "string",
+    "uint8",
+    "TextEncoder"
+  ],
+  "scripts": {
+    "build": "tsc index.ts"
+  }
 }
