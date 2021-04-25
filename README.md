@@ -2,6 +2,20 @@
 
 This library can easily and quickly convert js string to bytes
 
+### install
+
+Install bytes using yarn:
+
+```shell
+yarn add @jimizai/bytes -S
+```
+
+Install bytes using npm
+
+```shell
+npm i @jimizai/bytes -S
+```
+
 ### usage
 
 ```js
