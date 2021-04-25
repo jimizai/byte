@@ -5,7 +5,7 @@ This library can easily and quickly convert js string to bytes
 ### usage
 
 ```js
-import { b } from "bytes";
+import { b } from "@jimizai/bytes";
 const bytes = b`hello wolrd`;
 // => Uint8Array(11) [
 //   104, 101, 108, 108,
